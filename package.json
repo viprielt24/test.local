@@ -45,6 +45,6 @@
     "webpack-spritesmith": "^0.4.1"
   },
   "dependencies": {
-    "lazysizes": "^4.1.7"
+    "lazysizes": "^5.2.1"
   }
 }
